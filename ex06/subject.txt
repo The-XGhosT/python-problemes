@@ -1,0 +1,6 @@
+Area of a Triangle
+
+Write a function that takes the base and height of a triangle and return its area.
+
+Finding area of triangles. To find a triangle's
+area, use the formula area = 1/2 * base * height.

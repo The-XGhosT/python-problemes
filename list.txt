@@ -1,0 +1,163 @@
+Certainly! Here are 1000 programming problems to help you enhance your skills in Python:
+
+1. Write a program to print "Hello, World!". //done
+2. Write a program to add two numbers. //done
+3. Write a program to find the factorial of a number. //done
+4. Write a program to check if a number is prime or not. //done
+5. Write a program to check if a string is a palindrome. //done
+6. Write a program to calculate the area of a circle. //done
+7. Write a program to check if a number is even or odd. //done
+8. Write a program to find the sum of all elements in a list.//done
+9. Write a program to reverse a string. //done
+
+10. Write a program to check if a number is a perfect square.
+11. Write a program to calculate the average of a list of numbers.
+12. Write a program to find the largest element in a list.
+
+13. Write a program to check if a number is a power of two.
+14. Write a program to convert Celsius to Fahrenheit.
+15. Write a program to generate the Fibonacci sequence.
+16. Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+17. Write a program to sort a list of numbers in ascending order.
+18. Write a program to calculate the sum of digits in a number.
+19. Write a program to find the square root of a number.
+20. Write a program to find the length of a string without using the built-in len() function.
+21. Write a program to check if a string is an anagram of another string.
+22. Write a program to find the smallest element in a list.
+23. Write a program to check if a number is a palindrome.
+24. Write a program to remove duplicate elements from a list.
+25. Write a program to count the number of vowels in a string.
+26. Write a program to reverse the order of words in a string.
+27. Write a program to calculate the factorial of a number using recursion.
+28. Write a program to check if a number is a perfect number.
+29. Write a program to find the median of a list of numbers.
+30. Write a program to check if a string is a valid email address.
+31. Write a program to find the sum of all even numbers in a list.
+32. Write a program to find the second largest element in a list.
+33. Write a program to check if a string is a palindrome using recursion.
+34. Write a program to check if a number is a strong number.
+35. Write a program to find the prime factors of a number.
+36. Write a program to count the number of words in a string.
+37. Write a program to calculate the factorial of a number using iteration.
+38. Write a program to check if a number is an Armstrong number.
+39. Write a program to find the sum of all odd numbers in a list.
+40. Write a program to check if a string is a valid URL.
+41. Write a program to convert a decimal number to binary.
+42. Write a program to check if a number is a Harshad number.
+43. Write a program to find the common elements between two lists.
+
+44. Write a program to check if a number is a perfect cube.
+45. Write a program to reverse the order of elements in a list.
+46. Write a program to find the largest prime factor of a number.
+47. Write a program to check if a string is a pangram.
+48. Write a program to convert a decimal number to hexadecimal.
+49. Write a program to check if a number is a narcissistic number.
+50. Write a program to find the sum of all prime numbers in a given range.
+
+51. Write a program to check
+ if a string is a palindrome ignoring spaces and punctuation.
+52. Write a program to convert a binary number to decimal.
+53. Write a program to check if a number is a perfect number using recursion.
+54. Write a program to find the common elements between multiple lists.
+55. Write a program to check if a number is a palindrome using iteration.
+56. Write a program to calculate the power of a number.
+57. Write a program to check if a number is a palindrome in binary representation.
+58. Write a program to convert a decimal number to octal.
+59. Write a program to find the sum of all Fibonacci numbers in a given range.
+60. Write a program to check if a string is an isogram.
+61. Write a program to convert a binary number to hexadecimal.
+62. Write a program to check if a number is a prime palindrome.
+63. Write a program to find the first non-repeating character in a string.
+64. Write a program to convert a decimal number to binary using recursion.
+65. Write a program to calculate the LCM (Least Common Multiple) of two numbers.
+66. Write a program to check if a number is a Smith number.
+67. Write a program to find the highest frequency element in a list.
+68. Write a program to convert a binary number to decimal using recursion.
+69. Write a program to check if a number is a strong Harshad number.
+70. Write a program to find the sum of all prime factors of a number.
+71. Write a program to check if a string is a valid palindrome.
+72. Write a program to convert a decimal number to octal using recursion.
+73. Write a program to find the first repeating element in a list.
+74. Write a program to convert a decimal number to hexadecimal using recursion.
+75. Write a program to check if a number is a Keith number.
+76. Write a program to find the lowest frequency element in a list.
+77. Write a program to convert an octal number to decimal.
+78. Write a program to check if a number is a vampire number.
+79. Write a program to find the largest product of two adjacent digits in a given number.
+80. Write a program to check if a string is an anagram of a palindrome.
+81. Write a program to convert an octal number to binary.
+82. Write a program to check if a number is a happy number.
+83. Write a program to find the kth smallest element in a list.
+84. Write a program to convert an octal number to hexadecimal.
+85. Write a program to check if a number is a self-descriptive number.
+86. Write a program to find the sum of all prime numbers in a given range using the Sieve of Eratosthenes.
+87. Write a program to check if a string is a valid parentheses sequence.
+88. Write a program to convert a hexadecimal number to decimal.
+89. Write a program to check if a number is a narcissistic prime.
+90. Write a program to find the longest common prefix in a list of strings.
+91. Write a program to convert a hexadecimal number to binary.
+92. Write a program to check if a number is a perfect power.
+93. Write a program to find the kth largest element in a list.
+94. Write a program to convert a hexadecimal number to octal.
+95. Write a program to check if a number is a happy prime.
+96. Write a program to find the sum of all even Fibonacci numbers in a given range.
+97. Write a program to check if a string is a valid palindrome permutation.
+98. Write a program to convert a Roman numeral to decimal.
+99. Write a program to check if a number is a deficient number.
+100.
+
+ Write a program to find the longest increasing subsequence in a list.
+101. Write a program to convert a Roman numeral to binary.
+102. Write a program to check if a number is a circular prime.
+103. Write a program to find the sum of digits raised to a power in a given range.
+104. Write a program to check if a string is a valid parentheses sequence using stack.
+105. Write a program to convert a Roman numeral to octal.
+106. Write a program to check if a number is a polite number.
+107. Write a program to find the longest common substring in a list of strings.
+108. Write a program to convert a Roman numeral to hexadecimal.
+109. Write a program to check if a number is a happy square.
+110. Write a program to find the sum of all prime digits in a given range.
+111. Write a program to check if a string is a valid palindrome ignoring case.
+112. Write a program to convert a decimal number to Roman numeral.
+113. Write a program to check if a number is a semiperfect number.
+114. Write a program to find the length of the longest increasing subarray in a list.
+115. Write a program to convert a binary number to Roman numeral.
+116. Write a program to check if a number is a Fibonacci number.
+117. Write a program to find the sum of all abundant numbers in a given range.
+118. Write a program to check if a string is a valid parentheses sequence using recursion.
+119. Write a program to convert a octal number to Roman numeral.
+120. Write a program to check if a number is a circular prime using the Sieve of Eratosthenes.
+121. Write a program to find the sum of digits raised to a power in a given number.
+122. Write a program to check if a string is a valid anagram.
+123. Write a program to convert a Roman numeral to binary using recursion.
+124. Write a program to check if a number is a vampire number using recursion.
+125. Write a program to find the longest common suffix in a list of strings.
+126. Write a program to convert a octal number to hexadecimal.
+127. Write a program to check if a number is a happy prime using recursion.
+128. Write a program to find the sum of all even Fibonacci numbers in a given range using recursion.
+129. Write a program to check if a string is a valid palindrome permutation using collections.Counter.
+130. Write a program to convert a Roman numeral to octal using recursion.
+131. Write a program to check if a number is a deficient number using recursion.
+132. Write a program to find the length of the longest decreasing subsequence in a list.
+133. Write a program to convert a Roman numeral to hexadecimal using recursion.
+134. Write a program to check if a number is a polite number using recursion.
+135. Write a program to find the sum of all prime digits in a given number.
+136. Write a program to check if a string is a valid parentheses sequence using queue.
+137. Write a program to convert a binary number to Roman numeral using recursion.
+138. Write a program to check if a number is a perfect number using the Sieve of Eratosthenes.
+139. Write a program to find the sum of digits raised to a power in a given list.
+140. Write a program to check if a string is a valid anagram ignoring case.
+141. Write a program to convert a octal number to Roman numeral using recursion.
+142. Write a program to check if a number is a vampire number using permutation.
+143. Write a program to find the longest common substring in a list of strings using dynamic programming.
+144. Write a program to convert a Roman numeral to binary using stack.
+
+
+145. Write a program to check if a number is a happy prime using permutation.
+146. Write a program to find the sum of all even Fibonacci numbers in a given range using dynamic programming.
+147. Write a program to check if a string is a valid palindrome permutation using bitwise operations.
+148. Write a program to convert a Roman numeral to octal using stack.
+149. Write a program to check if a number is a deficient number using bitwise operations.
+150. Write a program to find the length of the longest non-decreasing subarray in a list.
+
+Note: This is a long list of problems, and it's recommended to focus on a subset of them based on your level of proficiency and learning goals.
